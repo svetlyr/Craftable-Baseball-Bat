@@ -12,5 +12,7 @@ description=
 description=TODO: Add optional magazine for learning the crafting recipe.
 description=
 description=Compatible with any mod. 46.65+
+description=
+description=https://github.com/Radu-Svetly/Craftable-Baseball-Bat
 tags=
 visibility=public
