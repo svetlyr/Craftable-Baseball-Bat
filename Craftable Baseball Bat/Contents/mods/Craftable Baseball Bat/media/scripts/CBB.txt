@@ -1,0 +1,20 @@
+module CBB {
+    imports { 
+        Base
+        }
+
+    recipe Build Baseball Bat
+	{
+	   Log,
+	   keep Saw/Axe/AxeStone/WoodAxe/HandAxe,
+	   keep HuntingKnife/IcePick/Machete/MeatCleaver,
+	   
+	   SkillRequired:Woodwork=5,
+	   Result:BaseballBat,
+	   Sound:Hammering,
+	   Time:450.0,
+	   Category:Carpentry,
+	   OnGiveXP:Give10WoodworkXP,
+	   NeedToBeLearn:false,
+	}
+}
