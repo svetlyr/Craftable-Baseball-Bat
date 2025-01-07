@@ -1,0 +1,26 @@
+module CBB 
+{
+    craftRecipe Build Baseball Bat
+    {
+        Time = 300,
+		timedAction = Making,
+        category = Carpentry,
+        Tags = Carpentry;InHandCraft;NeedsStationary;CanBeDoneWhileSitting,
+
+        xpAward = Woodwork:10;Carving:10,
+        SkillRequired = Woodwork:3;Carving:1,
+
+        Sound:Sawing,
+
+        inputs
+        {
+            item 1 [Base.Log],
+            item 1 tags[ChopTree] mode:keep flags[IsNotDull;MayDegradeLight],
+            item 1 tags[SharpKnife;MeatCleaver] mode:keep flags[IsNotDull;MayDegradeLight],
+        }
+        outputs
+        {
+            item 1 Base.BaseballBat,
+        }
+    }
+}

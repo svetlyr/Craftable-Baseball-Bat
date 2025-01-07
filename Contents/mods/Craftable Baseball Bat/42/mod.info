@@ -1,5 +1,6 @@
-name=Craftable Baseball Bat
-poster=poster.png
 id=CBB
+name=Craftable Baseball Bat
+icon=poster.png
+poster=poster.png
 description=Adds a recipe for the baseball bat. Compatible with any mod. 46.65+
 url=https://github.com/Radu-Svetly/Craftable-Baseball-Bat
