@@ -11,7 +11,8 @@ module CBB
         SkillRequired = Woodwork:3;Carving:1,
 
         Sound:Sawing,
-
+        OnCreate = Recipe.OnCreate.MinorCarving,
+        
         inputs
         {
             item 1 [Base.Log],
