@@ -11,6 +11,7 @@ description=1 HuntingKnife/IcePick/Machete/MeatCleaver (Not dull)
 description=Level 3 Carpentry and Level 1 Carving
 description=
 description=Compatible with any mod. Build 42.0+
+description=
 description=Since b42 is unstable, there may be breaking changes, please report them in the comments or in discussions.
 description=
 description=https://github.com/svetlyr/Craftable-Baseball-Bat
