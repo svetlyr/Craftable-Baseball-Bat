@@ -6,14 +6,8 @@ His version was incompatible with mods that used the vanilla Baseball Bat for cr
 
 # To build a Baseball Bat you'll need:
 1 Log
+1 Saw or any type of Axe (Not dull)
+1 HuntingKnife/IcePick/Machete/MeatCleaver (Not dull)
+Level 3 Carpentry and Level 1 Carving
 
-1 Saw/Axe/AxeStone/WoodAxe/HandAxe
-
-1 HuntingKnife/IcePick/Machete/MeatCleaver
-
-Level 5 Carpentry
-
-# TODO: 
-Add optional magazine for learning the crafting recipe.
-
-Compatible with any mod. 46.65+
+Compatible with any mod. Build 42.0+
